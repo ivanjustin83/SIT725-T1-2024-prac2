@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.18.3"
+  },
+  "name": "sit725-t1-2024-prac2",
+  "description": "Practical 2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "hello world",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivanjustin83/SIT725-T1-2024.git"
+  },
+  "author": "Ivan Justin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ivanjustin83/SIT725-T1-2024/issues"
+  },
+  "homepage": "https://github.com/ivanjustin83/SIT725-T1-2024#readme"
+}
